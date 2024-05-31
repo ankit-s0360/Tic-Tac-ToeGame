@@ -1,0 +1,14 @@
+:root{
+  --yellow: #ffff00
+}
+
+/* .app-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 8rem;
+} */
+
+
+body{
+  background-color: #000000;
+}
